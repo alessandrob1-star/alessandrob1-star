@@ -3,7 +3,7 @@
 🎓 Computer Science Student @ OPIT
 💻 Focused on Programming, Data Structures, and AI
 
-🎯 Goal: Master's in Computer Science / AI at top universities
+🎯 Goal: Achieve excellent results in my Computer Science Bachelor
 
 ---
 
