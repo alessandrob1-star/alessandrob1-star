@@ -18,6 +18,8 @@
 ## 💻 Projects
 
 * 📊 Grade Management System (C++)
+  A C++ application to manage and calculate course grades using weighted averages, bonus points, and file persistence.
+
 * More coming soon...
 
 ---
