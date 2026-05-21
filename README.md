@@ -1,3 +1,6 @@
+<img width="245" height="115" alt="giphy" src="https://github.com/user-attachments/assets/9084441b-3838-4518-a327-8dca2308e713" />
+
+
 # 👋 Hi, I'm Alessandro Benevelli
 
 🎓 Computer Science Student @ OPIT
