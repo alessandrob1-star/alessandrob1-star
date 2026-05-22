@@ -26,6 +26,9 @@
 * 📊 Grade Management System (C++)
   A C++ application to manage and calculate course grades using weighted averages, bonus points, and file persistence.
 
+* ibm-final-project-airbnb-data-analysis
+  This project presents an exploratory data analysis of Airbnb listings in New York City. It was developed as an IBM final project and focuses on data cleaning, transformation, and visualization using Python.
+
 * More coming soon...
 
 ---
