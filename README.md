@@ -30,7 +30,7 @@
   This project presents an exploratory data analysis of Airbnb listings in New York City. It was developed as an IBM final project and focuses on data cleaning, transformation, and visualization using Python.
   
 * ip-subnet-calculator-code-in-place-2026
-  My version of a graphical IPv4 Subnet Calculator built with Python and Tkinter.
+  My version of a graphical IPv4 Subnet Calculator built with Python and Tkinter. My final project for Code in Place by Stanford 2026
   The goal of this project is to help users calculate subnet information, divide networks into smaller subnets, and better understand IPv4 subnetting concepts.
 
 * More coming soon...
