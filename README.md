@@ -1,4 +1,4 @@
-<img width="1000" height="300" alt="giphy (1)" src="https://github.com/user-attachments/assets/41c9d870-bb40-437c-b3f9-77e25c455f51" />
+<img width="1000" height="300" alt="Profile banner" src="https://github.com/user-attachments/assets/41c9d870-bb40-437c-b3f9-77e25c455f51" />
 
 
 
@@ -7,31 +7,31 @@
 
 
 🎓 Computer Science Student @ OPIT
-💻 Focused on Programming, Data Structures, and AI
+💻 Focused on C++, Python, Data Structures, and AI
 
-🎯 Goal: Achieve excellent results in my Computer Science Bachelor
+🎯 Goal: Build strong Computer Science foundations through practical projects
 
 ---
 
 ## 🚀 Current Focus
 
 * C++
-* Python (in progress)
+* Python
 * Data Structures & Algorithms
+* Applied AI tools and automation
 
 ---
 
 ## 💻 Projects
 
-* 📊 Grade Management System (C++)
+* [📊 Grade Management System (C++)](https://github.com/alessandrob1-star/grade-manager-cpp)  
   A C++ application to manage and calculate course grades using weighted averages, bonus points, and file persistence.
 
-* ibm-final-project-airbnb-data-analysis
-  This project presents an exploratory data analysis of Airbnb listings in New York City. It was developed as an IBM final project and focuses on data cleaning, transformation, and visualization using Python.
+* [Airbnb NYC Exploratory Data Analysis](https://github.com/alessandrob1-star/ibm-final-project-airbnb-data-analysis-2023)  
+  IBM Data Analytics final project focused on data cleaning, transformation, visualization, and business insights using Python.
   
-* ip-subnet-calculator-code-in-place-2026
-  My version of a graphical IPv4 Subnet Calculator built with Python and Tkinter. My final project for Code in Place by Stanford 2026
-  The goal of this project is to help users calculate subnet information, divide networks into smaller subnets, and better understand IPv4 subnetting concepts.
+* [IP Subnet Calculator](https://github.com/alessandrob1-star/ip-subnet-calculator-code-in-place-2026)  
+  A graphical IPv4 subnet calculator built with Python and Tkinter as a Stanford Code in Place 2026 final project.
 
 * More coming soon...
 
@@ -49,4 +49,4 @@
 
 ## 📫 Contact
 
-https://www.linkedin.com/in/alessandrobenevelliopit/
+[LinkedIn](https://www.linkedin.com/in/alessandrobenevelliopit/)
