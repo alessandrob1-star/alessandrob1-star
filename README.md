@@ -28,10 +28,13 @@
   A C++ application to manage and calculate course grades using weighted averages, bonus points, and file persistence.
 
 * [Airbnb NYC Exploratory Data Analysis](https://github.com/alessandrob1-star/ibm-final-project-airbnb-data-analysis-2023)  
-  IBM Data Analytics final project focused on data cleaning, transformation, visualization, and business insights using Python.
+  Final project for the IBM Data Analytics Programme 2023, focused on data cleaning, transformation, visualization, and business insights using Python.
   
 * [IP Subnet Calculator](https://github.com/alessandrob1-star/ip-subnet-calculator-code-in-place-2026)  
-  A graphical IPv4 subnet calculator built with Python and Tkinter as a Stanford Code in Place 2026 final project.
+  Final project for Stanford Code in Place 2026. A graphical IPv4 subnet calculator built with Python and Tkinter.
+
+* [NYTimes Article Search GUI](https://github.com/alessandrob1-star/nytimes-api-scraper)  
+  A Python desktop GUI and command-line tool that searches New York Times articles with the official Article Search API. It uses Tkinter, Requests, local `.env` configuration, and safe GitHub publishing without exposing private API keys.
 
 * More coming soon...
 
