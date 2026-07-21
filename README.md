@@ -24,11 +24,11 @@
 
 ## 💻 Projects
 
-* **DocWeave — Multi-Agent Document Intelligence** *(In progress)*
-  A human-governed system for organizing large PDF collections with persistent CockroachDB memory and AWS-based agents.
-
 * **AI Act Compliance Navigator** *(Completed)*
   An explainable regulatory-intelligence application for European SMEs, built as an individual OpenAI Build Week submission.
+
+* **DocWeave — Multi-Agent Document Intelligence** *(In progress)*
+  A human-governed system for organizing large PDF collections with persistent CockroachDB memory and AWS-based agents.
 
 * [NYTimes Article Search GUI](https://github.com/alessandrob1-star/nytimes-api-scraper)
   A Python desktop GUI and command-line tool that searches New York Times articles with the official Article Search API. It uses Tkinter, Requests, local `.env` configuration, and safe GitHub publishing without exposing private API keys.
