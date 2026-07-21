@@ -24,6 +24,12 @@
 
 ## 💻 Projects
 
+* [AI Act Compliance Navigator](https://github.com/alessandrob1-star/ai-act-compliance-navigator-openai-build-week)
+  An explainable regulatory-intelligence application for European SMEs, combining company-specific EU AI Act and GDPR risk assessment, grounded assistance, human-approved compliance workflows, multilingual support, automated evaluation, and security-focused engineering. Built as an individual OpenAI Build Week submission.
+
+* **DocWeave — Multi-Agent Document Intelligence** *(in development · private repository)*
+  A human-governed system for classifying, renaming, organizing, linking, and safely restoring large PDF collections. Designed for the CockroachDB × AWS Hackathon with persistent relational and vector memory, confidence-driven review, complete desktop and cloud experiences, and auditable multi-agent workflows.
+
 * [📊 Grade Management System (C++)](https://github.com/alessandrob1-star/grade-manager-cpp)  
   A C++ application to manage and calculate course grades using weighted averages, bonus points, and file persistence.
 
