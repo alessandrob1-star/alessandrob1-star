@@ -30,6 +30,9 @@
 * **AI Act Compliance Navigator** *(Private repository)*
   A server-orchestrated multi-agent intelligence platform powered by a locally hosted Large Language Model (LLM). It combines specialized agents, intelligent task routing, context-aware retrieval, persistent workflow memory, deterministic safeguards, multilingual interaction, automated evaluations, and Dockerized services to produce explainable, human-approved results. European Union AI Act and General Data Protection Regulation compliance provide the real-world application domain.
 
+* [IT Help Desk Ticket Triage Assistant](https://github.com/alessandrob1-star/n8n-it-help-desk-ticket-triage)
+  An n8n workflow that classifies IT support requests with deterministic JavaScript rules and uses a local Ollama model to format the final ticket.
+
 * [NYTimes Article Search GUI](https://github.com/alessandrob1-star/nytimes-api-scraper)
   A Python desktop GUI and command-line tool that searches New York Times articles with the official Article Search API. It uses Tkinter, Requests, local `.env` configuration, and safe GitHub publishing without exposing private API keys.
 
