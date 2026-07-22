@@ -27,7 +27,10 @@
 * **DocWeave — Multi-Agent Document Intelligence** *(In progress · Private repository)*
   A human-governed platform for analyzing, classifying, renaming, organizing, and linking large PDF collections. Designed with **PySide6**, a complete **Amazon Web Services (AWS)** cloud application, multi-agent orchestration, and **CockroachDB** as relational, vector, operational, and audit memory — with calibrated-confidence review, resumable batch processing, and reversible file operations.
 
-* **AI Act Compliance Navigator** *(Private repository)*
+* [**AI Act Compliance Navigator — OpenAI Build Week 2026**](https://github.com/alessandrob1-star/ai-act-compliance-navigator-openai-build-week)
+  A public multi-agent compliance workspace built with **Codex** and **GPT-5.6 Sol** for OpenAI Build Week 2026. It transforms a company profile into an explainable EU AI Act and GDPR assessment, matches relevant regulatory sources and news, provides grounded assistance through Dr. A, and produces prioritized, human-approved compliance actions.
+
+* **AI Act Compliance Navigator — Local Model Version** *(Private repository)*
   A server-orchestrated multi-agent intelligence platform powered by a locally hosted Large Language Model (LLM). It combines specialized agents, intelligent task routing, context-aware retrieval, persistent workflow memory, deterministic safeguards, multilingual interaction, automated evaluations, and Dockerized services to produce explainable, human-approved results. European Union AI Act and General Data Protection Regulation compliance provide the real-world application domain.
 
 * [NYTimes Article Search GUI](https://github.com/alessandrob1-star/nytimes-api-scraper)
