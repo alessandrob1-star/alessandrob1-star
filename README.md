@@ -30,9 +30,6 @@
 * [**AI Act Compliance Navigator — OpenAI Build Week 2026**](https://github.com/alessandrob1-star/ai-act-compliance-navigator-openai-build-week)
   A public multi-agent compliance workspace built with **Codex** and **GPT-5.6 Sol** for OpenAI Build Week 2026. It transforms a company profile into an explainable EU AI Act and GDPR assessment, matches relevant regulatory sources and news, provides grounded assistance through Dr. A, and produces prioritized, human-approved compliance actions.
 
-* **AI Act Compliance Navigator — Local Model Version** *(Private repository)*
-  A server-orchestrated multi-agent intelligence platform powered by a locally hosted Large Language Model (LLM). It combines specialized agents, intelligent task routing, context-aware retrieval, persistent workflow memory, deterministic safeguards, multilingual interaction, automated evaluations, and Dockerized services to produce explainable, human-approved results. European Union AI Act and General Data Protection Regulation compliance provide the real-world application domain.
-
 * [IT Help Desk Ticket Triage Assistant](https://github.com/alessandrob1-star/n8n-it-help-desk-ticket-triage)
   An n8n workflow that classifies IT support requests with deterministic JavaScript rules and uses a local Ollama model to format the final ticket.
 
