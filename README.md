@@ -27,9 +27,6 @@
 * **DocWeave — Multi-Agent Document Intelligence** *(In progress · Private repository)*
   A human-governed platform for analyzing, classifying, renaming, organizing, and linking large PDF collections. Designed with **PySide6**, a complete **Amazon Web Services (AWS)** cloud application, multi-agent orchestration, and **CockroachDB** as relational, vector, operational, and audit memory — with calibrated-confidence review, resumable batch processing, and reversible file operations.
 
-* [**AI Act Compliance Navigator — OpenAI Build Week 2026**](https://github.com/alessandrob1-star/ai-act-compliance-navigator-openai-build-week)
-  A public multi-agent compliance workspace built with **Codex** and **GPT-5.6 Sol** for OpenAI Build Week 2026. It transforms a company profile into an explainable EU AI Act and GDPR assessment, matches relevant regulatory sources and news, provides grounded assistance through Dr. A, and produces prioritized, human-approved compliance actions.
-
 * [IT Help Desk Ticket Triage Assistant](https://github.com/alessandrob1-star/n8n-it-help-desk-ticket-triage)
   An n8n workflow that classifies IT support requests with deterministic JavaScript rules and uses a local Ollama model to format the final ticket.
 
