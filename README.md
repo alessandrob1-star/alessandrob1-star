@@ -24,8 +24,8 @@
 
 ## 💻 Projects
 
-* **DocWeave — Multi-Agent Document Intelligence** *(In progress · Private repository)*
-  A human-governed platform for analyzing, classifying, renaming, organizing, and linking large PDF collections. Designed with **PySide6**, a complete **Amazon Web Services (AWS)** cloud application, multi-agent orchestration, and **CockroachDB** as relational, vector, operational, and audit memory — with calibrated-confidence review, resumable batch processing, and reversible file operations.
+* **[DocWeave — Bulk PDF Renaming with Persistent Agent Memory](https://github.com/alessandrob1-star/cockroachdb-aws-agentic-memory-docweave)**
+  A glass-effect **PySide6** desktop app that reads anonymous PDFs with **Amazon Bedrock Nova**, proposes bulk renames and content-based folders, keeps every file operation under human approval, and uses **CockroachDB** to remember original paths, decisions, moves, and restores. [Watch the 2:58 demo](https://youtu.be/p1QFV6ahOJo).
 
 * [IT Help Desk Ticket Triage Assistant](https://github.com/alessandrob1-star/n8n-it-help-desk-ticket-triage)
   An n8n workflow that classifies IT support requests with deterministic JavaScript rules and uses a local Ollama model to format the final ticket.
