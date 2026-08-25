@@ -27,6 +27,9 @@
 * **[DocWeave — Bulk PDF Renaming with Persistent Agent Memory](https://github.com/alessandrob1-star/cockroachdb-aws-agentic-memory-docweave)**
   A glass-effect **PySide6** desktop app that reads anonymous PDFs with **Amazon Bedrock Nova**, proposes bulk renames and content-based folders, keeps every file operation under human approval, and uses **CockroachDB** to remember original paths, decisions, moves, and restores. [Watch the 2:58 demo](https://youtu.be/p1QFV6ahOJo).
 
+* [**Dr. G.D.P.R. & AI Act Navigator**](https://github.com/alessandrob1-star/dr-gdpr-ai-act-navigator)
+  A local-first GDPR and EU AI Act assessment workspace with web and desktop interfaces, Ollama/Qwen support, and an optional OpenAI runtime.
+
 * [IT Help Desk Ticket Triage Assistant](https://github.com/alessandrob1-star/n8n-it-help-desk-ticket-triage)
   An n8n workflow that classifies IT support requests with deterministic JavaScript rules and uses a local Ollama model to format the final ticket.
 
