@@ -8,7 +8,7 @@
 
 🎓 B.Sc. Computer Science student at OPIT — Machine Learning & AI track
 
-I build AI applications that combine **multi-agent orchestration**, **Large Language Models**, **deterministic safeguards**, **persistent memory**, and **human-in-the-loop workflows**.
+I build AI applications that combine **multi-agent orchestration**, **Large Language Models**, **deterministic safeguards**, **persistent memory**, and **human-in-the-loop workflows**. I am also interested in the lower-level side of machine learning: neural networks, activation functions, representation learning, and computer vision.
 
 My recent work focuses on local-first and cloud-backed systems: Python/PySide6 desktop apps, browser dashboards, regulatory-intelligence tools, document-intelligence workflows, Ollama/Qwen local models, OpenAI API integrations, Amazon Bedrock, CockroachDB, Docker, and n8n automation.
 
@@ -19,6 +19,7 @@ I am especially interested in reliable, explainable AI systems where the model s
 ## 🚀 Current Focus
 
 * **AI Engineering:** LLM applications, agentic workflows, retrieval, model orchestration, and evaluation.
+* **Machine Learning Foundations:** neural networks, activation functions, representation learning, computer vision, and model behavior.
 * **Multi-Agent Systems:** specialist agents for profile analysis, regulatory monitoring, document classification, memory, and policy enforcement.
 * **Human-Controlled Automation:** approval gates, deterministic rule engines, explainable outputs, restore paths, and audit-friendly state.
 * **Interfaces:** Python/PySide6 desktop dashboards, browser-based web apps, local launchers, reports, and workflow tools.
@@ -65,11 +66,10 @@ I am especially interested in reliable, explainable AI systems where the model s
 
 ## 💡 Interests
 
-* Computer Science
-* Physics
-* Finance
-* Biology
-* Chemistry
+* AI Engineering, Agentic AI, and Multi-Agent Systems
+* Neural Networks, Computer Vision, and Explainable AI
+* Retrieval-Augmented Generation, Local AI, and Document Intelligence
+* Computer Science, Physics, Finance, Biology, and Chemistry
 
 ---
 
