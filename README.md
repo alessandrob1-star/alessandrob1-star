@@ -36,7 +36,7 @@ I am especially interested in reliable, explainable AI systems where the model s
   A PySide6 desktop application for messy PDF folders: it extracts document content, uses **Amazon Bedrock Nova** to propose document classes, safer filenames, and destination folders, then requires explicit human approval before any file is moved.
   **Technical adoption:** CockroachDB as persistent agent memory, six-table file history, reversible rename/restore workflow, AWS Lambda/API Gateway/S3/SQS cloud slice, CloudWatch evidence, Bedrock model calls, migration scripts, and a dashboard built around review rather than blind automation. [Watch the 2:58 demo](https://youtu.be/p1QFV6ahOJo).
 
-* [**Dr. G.D.P.R. & AI Act Navigator**](https://github.com/alessandrob1-star/dr-gdpr-ai-act-navigator)
+* [**Dr. A - G.D.P.R. & AI Act Navigator**](https://github.com/alessandrob1-star/dr-gdpr-ai-act-navigator)
   A multi-agent GDPR and EU AI Act compliance application with both a browser web app and a native desktop dashboard. It turns a guided company profile into a risk assessment, matched regulatory evidence, timeline, progress view, action workspace, and grounded Dr. A assistant.
   **Technical adoption:** Company Profile Agent, Regulatory Monitoring Agent, Regulatory Matching Agent, Dr. A Agent, deterministic Policy Agent safeguards, persistent company memory, official-document retrieval, live regulatory-update pipeline, PDF/DOCX exports, 25-language local UI dictionaries, Docker launchers, Ollama/Qwen local mode, and optional OpenAI `gpt-5.6-sol` runtime.
 
