@@ -6,20 +6,24 @@
 # 👋 Hi, I'm Alessandro Benevelli
 
 
-🎓 Computer Science Student @ OPIT
-💻 Building practical software with Python, C++, automation, agentic AI, and cloud-backed workflows
+🎓 B.Sc. Computer Science student at OPIT — Machine Learning & AI track
 
-🎯 Goal: turn computer science fundamentals into working applications with clear architecture, persistence, testing, and human-controlled AI behavior
+I build AI applications that combine **multi-agent orchestration**, **Large Language Models**, **deterministic safeguards**, **persistent memory**, and **human-in-the-loop workflows**.
+
+My recent work focuses on local-first and cloud-backed systems: Python/PySide6 desktop apps, browser dashboards, regulatory-intelligence tools, document-intelligence workflows, Ollama/Qwen local models, OpenAI API integrations, Amazon Bedrock, CockroachDB, Docker, and n8n automation.
+
+I am especially interested in reliable, explainable AI systems where the model supports decisions without silently taking control of them.
 
 ---
 
 ## 🚀 Current Focus
 
-* Multi-agent applications with deterministic safeguards and human approval loops
-* Python desktop and web dashboards, data pipelines, and automation workflows
-* C++ fundamentals, data structures, file persistence, and terminal applications
-* Local and cloud AI runtimes: Ollama/Qwen, OpenAI API, Amazon Bedrock, and workflow tools such as n8n
-* Persistent memory and operational storage with CockroachDB, local files, and auditable histories
+* **AI Engineering:** LLM applications, agentic workflows, retrieval, model orchestration, and evaluation.
+* **Multi-Agent Systems:** specialist agents for profile analysis, regulatory monitoring, document classification, memory, and policy enforcement.
+* **Human-Controlled Automation:** approval gates, deterministic rule engines, explainable outputs, restore paths, and audit-friendly state.
+* **Interfaces:** Python/PySide6 desktop dashboards, browser-based web apps, local launchers, reports, and workflow tools.
+* **Model Runtimes:** Ollama/Qwen for local execution, OpenAI API for grounded assistants, and Amazon Bedrock for document intelligence.
+* **Persistence and Infrastructure:** CockroachDB, local file stores, Docker, AWS Lambda/API Gateway/S3/SQS, CloudWatch, and GitHub Actions.
 
 ---
 
