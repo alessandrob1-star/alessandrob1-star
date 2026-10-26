@@ -62,6 +62,8 @@ I am especially interested in reliable, explainable AI systems where the model s
   IBM Data Analytics capstone notebook analyzing Airbnb listings in New York City through cleaning, preprocessing, visualization, and business-oriented interpretation of pricing, room types, boroughs, and neighbourhood patterns.
   **Technical adoption:** Jupyter Notebook, Python, Pandas, NumPy, Matplotlib, Seaborn, data-quality checks, correlation analysis, and cautious interpretation of dataset limitations.
 
+### Web development and interaction design
+
 * **[Caravaggio — Light, Shadow, Blood](https://github.com/alessandrob1-star/caravaggio-light-shadow-blood)**
   An interactive digital exhibition exploring Caravaggio’s paintings and life through three visual chapters. The **Figma prototype** combines horizontal galleries within a vertical journey, artwork details, optional explanatory overlays and eight stored language versions.
   Developed for **COMP-2002 Web Development at OPIT**. Assessment 1 focuses on the prototype; responsive website implementation is planned for the next phase.
