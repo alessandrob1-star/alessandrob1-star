@@ -44,18 +44,6 @@ I am especially interested in reliable, explainable AI systems where the model s
   An importable **n8n** workflow that collects IT incidents through a form, classifies them with deterministic JavaScript rules, assigns category/priority/team/confidence, and uses a local **Ollama/Qwen** model only to format the final ticket.
   **Technical adoption:** hybrid rule-engine plus LLM workflow, explainable triage logic, local model runtime, credential-safe workflow export, and a design where the model presents the result but does not control the technical diagnosis.
 
-### Web development and interaction design
-
-**[CARAVAGGIO — LIGHT · SHADOW · BLOOD](https://github.com/alessandrob1-star/caravaggio-light-shadow-blood)**
-
-[![Caravaggio — opening screen of the interactive exhibition prototype](https://raw.githubusercontent.com/alessandrob1-star/caravaggio-light-shadow-blood/main/assets/screenshots/opening.png)](https://github.com/alessandrob1-star/caravaggio-light-shadow-blood)
-
-An immersive digital exhibition exploring Caravaggio through full paintings, selected details and author-written anecdotes. The current **Figma prototype** combines three horizontal galleries within a vertical journey, focused helper overlays and eight stored language versions.
-
-Developed for **COMP-2002 Web Development** at **Open Institute of Technology (OPIT)**, taught by **Professor Filip Biały**, as part of my B.Sc. in Computer Science. Currently at **Assessment 1: prototype**; website implementation will follow in later course phases.
-
-[Explore the interactive prototype](https://www.figma.com/proto/gVNoq7JkoidWp73WNVsCdA/CARAVAGGIO-%E2%80%94-LIGHT---SHADOW---BLOOD-project?node-id=2251-2&p=f&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2251%3A2) · [View the repository, screenshots and design notes](https://github.com/alessandrob1-star/caravaggio-light-shadow-blood)
-
 ### Python, data, and systems projects
 
 * [NYTimes Article Search GUI](https://github.com/alessandrob1-star/nytimes-api-scraper)
@@ -74,6 +62,9 @@ Developed for **COMP-2002 Web Development** at **Open Institute of Technology (O
   IBM Data Analytics capstone notebook analyzing Airbnb listings in New York City through cleaning, preprocessing, visualization, and business-oriented interpretation of pricing, room types, boroughs, and neighbourhood patterns.
   **Technical adoption:** Jupyter Notebook, Python, Pandas, NumPy, Matplotlib, Seaborn, data-quality checks, correlation analysis, and cautious interpretation of dataset limitations.
 
+* [Caravaggio — Light, Shadow, Blood](https://github.com/alessandrob1-star/caravaggio-light-shadow-blood)
+  Figma exhibition prototype for COMP-2002 Web Development at OPIT; website implementation planned.
+
 ---
 
 ## 💡 Interests
@@ -88,4 +79,3 @@ Developed for **COMP-2002 Web Development** at **Open Institute of Technology (O
 ## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/alessandrobenevelliopit/)
-
