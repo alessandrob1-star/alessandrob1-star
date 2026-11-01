@@ -10,7 +10,7 @@
 
 I build AI applications that combine **multi-agent orchestration**, **Large Language Models**, **deterministic safeguards**, **persistent memory**, and **human-in-the-loop workflows**. I am also interested in the lower-level side of machine learning: neural networks, activation functions, representation learning, and computer vision.
 
-My recent work focuses on local-first and cloud-backed systems: Python/PySide6 desktop apps, browser dashboards, regulatory-intelligence tools, document-intelligence workflows, Ollama/Qwen local models, OpenAI API integrations, Amazon Bedrock, CockroachDB, Docker, and n8n automation.
+My recent work focuses on local-first and cloud-backed systems: Python/PySide6 desktop apps, browser dashboards, regulatory-intelligence tools, document-intelligence workflows, Ollama/Qwen local models, OpenAI API integrations, SQLite, Docker, and n8n automation.
 
 I am especially interested in reliable, explainable AI systems where the model supports decisions without silently taking control of them.
 
@@ -23,8 +23,8 @@ I am especially interested in reliable, explainable AI systems where the model s
 * **Multi-Agent Systems:** specialist agents for profile analysis, regulatory monitoring, document classification, memory, and policy enforcement.
 * **Human-Controlled Automation:** approval gates, deterministic rule engines, explainable outputs, restore paths, and audit-friendly state.
 * **Interfaces:** Python/PySide6 desktop dashboards, browser-based web apps, local launchers, reports, and workflow tools.
-* **Model Runtimes:** Ollama/Qwen for local execution, OpenAI API for grounded assistants, and Amazon Bedrock for document intelligence.
-* **Persistence and Infrastructure:** CockroachDB, local file stores, Docker, AWS Lambda/API Gateway/S3/SQS, CloudWatch, and GitHub Actions.
+* **Model Runtimes:** Ollama/Qwen for local document intelligence and local assistants, with optional OpenAI API integrations in projects that support them.
+* **Persistence and Infrastructure:** SQLite, local file stores, Docker, reproducible local launchers, and GitHub Actions.
 
 ---
 
@@ -32,9 +32,13 @@ I am especially interested in reliable, explainable AI systems where the model s
 
 ### Featured AI and automation projects
 
-* **[DocWeave — Bulk PDF Renaming with Persistent Agent Memory](https://github.com/alessandrob1-star/cockroachdb-aws-agentic-memory-docweave)**
-  A PySide6 desktop application for messy PDF folders: it extracts document content, uses **Amazon Bedrock Nova** to propose document classes, safer filenames, and destination folders, then requires explicit human approval before any file is moved.
-  **Technical adoption:** CockroachDB as persistent agent memory, six-table file history, reversible rename/restore workflow, AWS Lambda/API Gateway/S3/SQS cloud slice, CloudWatch evidence, Bedrock model calls, migration scripts, and a dashboard built around review rather than blind automation. [Watch the 2:58 demo](https://youtu.be/p1QFV6ahOJo).
+* **[DocWeave — Local PDF Organization with Human Approval](https://github.com/alessandrob1-star/Docweave)**
+  A Python/PySide6 desktop application that reads messy PDF folders, uses **Ollama with Qwen 14B locally** to propose document classes, filenames, and destination folders, and requires human approval before moving files.
+  **Technical adoption:** six-table SQLite memory, validated structured model output and evidence references, persistent original/current path history, human review, reversible rename/restore workflow, and GitHub Actions. Document processing runs locally without a hosted model or remote database.
+
+  ![DocWeave review workflow - temporary screenshot from an earlier interface build](https://raw.githubusercontent.com/alessandrob1-star/Docweave/main/docs/assets/docweave-screenshot-03-human-review.png)
+
+  *Temporary screenshot retained from an earlier interface build; visible labels may differ from the current local runtime. Updated screenshots will follow.*
 
 * [**Dr. A - G.D.P.R. & AI Act Navigator**](https://github.com/alessandrob1-star/dr-a-gdpr-ai-act-navigator)
   A multi-agent GDPR and EU AI Act compliance web application. It turns a guided company profile into a risk assessment, matched regulatory evidence, timeline, progress view, action workspace, and grounded Dr. A assistant.
@@ -82,3 +86,4 @@ I am especially interested in reliable, explainable AI systems where the model s
 ## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/alessandrobenevelliopit/)
+
