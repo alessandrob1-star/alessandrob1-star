@@ -8,7 +8,7 @@
 **B.Sc. Computer Science Student — OPIT**  
 *Aspiring Deep Learning Engineer | AI Engineering & Neural Networks*
 
-I am a Computer Science student at OPIT, developing practical experience in AI engineering while building a foundation in the mathematical and computational principles of machine learning.
+My work combines practical AI engineering with an evolving foundation in the mathematical and computational principles of machine learning.
 
 My projects involve multi-agent architectures, local language models, document intelligence, and software systems designed around transparency, reliability, and human oversight.
 
@@ -16,7 +16,7 @@ My long-term objective is to specialize in **Deep Learning Engineering**, with p
 
 ---
 
-## Research & Technical Interests
+## Scientific & Technical Interests
 
 ### Machine Learning & Deep Learning
 - Neural network architectures and representation learning
