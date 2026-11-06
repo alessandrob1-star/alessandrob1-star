@@ -1,87 +1,152 @@
+```html
 <div align="center">
   <img width="1000" height="200" alt="Profile banner" src="assets/profile-banner.gif" />
 </div>
+```
 
+# Alessandro Benevelli
 
+**B.Sc. Computer Science Student — OPIT**  
+*Aspiring Deep Learning Engineer | AI Engineering & Neural Networks*
 
+I am a Computer Science student at OPIT with an interest in the mathematical foundations, architectures, and practical applications of artificial intelligence.
 
-# 👋 Hi, I'm Alessandro Benevelli
+My current software projects focus on **AI engineering**, including multi-agent systems, local large language models, document intelligence, and human-in-the-loop workflows.
 
+My long-term objective is to specialize in **Deep Learning Engineering**, particularly neural network architectures, optimization methods, representation learning, and computer vision.
 
-🎓 B.Sc. Computer Science student at OPIT — Machine Learning & AI track
-
-I build AI applications that combine **multi-agent orchestration**, **Large Language Models**, **deterministic safeguards**, **persistent memory**, and **human-in-the-loop workflows**. I am also interested in the lower-level side of machine learning: neural networks, activation functions, representation learning, and computer vision.
-
-My recent work focuses on local-first and cloud-backed systems: Python/PySide6 desktop apps, browser dashboards, regulatory-intelligence tools, document-intelligence workflows, Ollama/Qwen local models, OpenAI API integrations, SQLite, Docker, and n8n automation.
-
-I am especially interested in reliable, explainable AI systems where the model supports decisions without silently taking control of them.
-
----
-
-## 🚀 Current Focus
-
-* **AI Engineering:** LLM applications, agentic workflows, retrieval, model orchestration, and evaluation.
-* **Machine Learning Foundations:** neural networks, activation functions, representation learning, computer vision, and model behavior.
-* **Multi-Agent Systems:** specialist agents for profile analysis, regulatory monitoring, document classification, memory, and policy enforcement.
-* **Human-Controlled Automation:** approval gates, deterministic rule engines, explainable outputs, restore paths, and audit-friendly state.
-* **Interfaces:** Python/PySide6 desktop dashboards, browser-based web apps, local launchers, reports, and workflow tools.
-* **Model Runtimes:** Ollama/Qwen for local document intelligence and local assistants, with optional OpenAI API integrations in projects that support them.
-* **Persistence and Infrastructure:** SQLite, local file stores, Docker, reproducible local launchers, and GitHub Actions.
+I am interested in developing AI systems that combine sound theoretical foundations, experimental evaluation, and reliable software engineering.
 
 ---
 
-## 💻 Projects
+## Research & Technical Interests
 
-### Featured AI and automation projects
+**Deep Learning & Machine Learning**
+- Neural network architectures and representation learning
+- Optimization algorithms and gradient-based learning
+- Computer vision and neural network training
+- Mathematical foundations of machine learning
 
-* **[DocWeave — Local PDF Organization with Human Approval](https://github.com/alessandrob1-star/Docweave)**
-  A Python/PySide6 desktop application that reads messy PDF folders, uses **Ollama with Qwen 14B locally** to propose document classes, filenames, and destination folders, and requires human approval before moving files.
-  **Technical adoption:** six-table SQLite memory, validated structured model output and evidence references, persistent original/current path history, human review, reversible rename/restore workflow, and GitHub Actions. Document processing runs locally without a hosted model or remote database.
+**AI Engineering**
+- Large language models and multi-agent architectures
+- Retrieval and document intelligence
+- Local model inference and orchestration
+- Human-in-the-loop systems and deterministic safeguards
 
-* [**Dr. A - G.D.P.R. & AI Act Navigator**](https://github.com/alessandrob1-star/dr-a-gdpr-ai-act-navigator)
-  A multi-agent GDPR and EU AI Act compliance web application. It turns a guided company profile into a risk assessment, matched regulatory evidence, timeline, progress view, action workspace, and grounded Dr. A assistant.
-  **Technical adoption:** Company Profile Agent, Regulatory Monitoring Agent, Regulatory Matching Agent, Dr. A Agent, deterministic Policy Agent safeguards, persistent company memory, official-document retrieval, live regulatory-update pipeline, PDF/DOCX exports, 25-language local UI dictionaries, Docker launchers, Ollama/Qwen local mode, and optional OpenAI `gpt-5.6-sol` runtime.
+**Software Engineering & Data**
+- Python application development
+- Data processing and exploratory analysis
+- Persistent storage and workflow automation
+- Testing, reproducibility, and maintainability
 
-* [IT Help Desk Ticket Triage Assistant](https://github.com/alessandrob1-star/n8n-it-help-desk-ticket-triage)
-  An importable **n8n** workflow that collects IT incidents through a form, classifies them with deterministic JavaScript rules, assigns category/priority/team/confidence, and uses a local **Ollama/Qwen** model only to format the final ticket.
-  **Technical adoption:** hybrid rule-engine plus LLM workflow, explainable triage logic, local model runtime, credential-safe workflow export, and a design where the model presents the result but does not control the technical diagnosis.
-
-### Python, data, and systems projects
-
-* [NYTimes Article Search GUI](https://github.com/alessandrob1-star/nytimes-api-scraper)
-  A Python desktop GUI and command-line tool for the New York Times Article Search API, with keyword search, result summaries, browser opening, `.env` configuration, and safe handling of private API keys.
-  **Technical adoption:** Tkinter UI, Requests-based API integration, environment-variable configuration, CLI/GUI split, and GitHub-safe credential hygiene.
-
-* [IP Subnet Calculator](https://github.com/alessandrob1-star/ip-subnet-calculator-code-in-place-2026)
-  A Python/Tkinter IPv4 subnet calculator and learning tool with tabs for CIDR inspection, equal-size subnetting, and an offline tutor with optional OpenAI-powered answers.
-  **Technical adoption:** RFC-aware IPv4 calculations, `/31` and `/32` handling, network scope classification, background-threaded online tutor requests, deterministic offline fallback, unit tests, and GitHub Actions on multiple Python versions.
-
-* [📊 Grade Management System (C++)](https://github.com/alessandrob1-star/grade-manager-cpp)
-  A C++ course-grade manager that stores courses, weighted assessments, bonus rules, formatted output, and persistent grade data across runs.
-  **Technical adoption:** STL `map`/`vector`, file I/O with `fstream`, formatted terminal output, modular functions, basic validation, weighted-average logic, and MIT-licensed source.
-
-* [Airbnb NYC Exploratory Data Analysis](https://github.com/alessandrob1-star/ibm-final-project-airbnb-data-analysis-2023)
-  IBM Data Analytics capstone notebook analyzing Airbnb listings in New York City through cleaning, preprocessing, visualization, and business-oriented interpretation of pricing, room types, boroughs, and neighbourhood patterns.
-  **Technical adoption:** Jupyter Notebook, Python, Pandas, NumPy, Matplotlib, Seaborn, data-quality checks, correlation analysis, and cautious interpretation of dataset limitations.
-
-### Web development and interaction design
-
-* **[Caravaggio — Light, Shadow, Blood](https://github.com/alessandrob1-star/caravaggio-light-shadow-blood)**
-  An interactive digital exhibition exploring Caravaggio’s paintings and life through three visual chapters. The **Figma prototype** combines horizontal galleries within a vertical journey, artwork details, optional explanatory overlays and eight stored language versions.
-  Developed for **COMP-2002 Web Development at OPIT**. Assessment 1 focuses on the prototype; responsive website implementation is planned for the next phase.
+*Deep Learning topics represent my current learning and long-term specialization interests; the projects below document my practical development experience.*
 
 ---
 
-## 💡 Interests
+## Selected Projects
 
-* AI Engineering, Agentic AI, and Multi-Agent Systems
-* Neural Networks, Computer Vision, and Explainable AI
-* Retrieval-Augmented Generation, Local AI, and Document Intelligence
-* Computer Science, Physics, Finance, Biology, and Chemistry
+### AI Engineering & Intelligent Systems
+
+**[DocWeave — Local Document Intelligence](https://github.com/alessandrob1-star/Docweave)**
+
+A local-first Python desktop application for organizing PDF collections using LLM-assisted classification and human approval.
+
+The system uses Ollama/Qwen for document interpretation while retaining deterministic validation and user control over file operations.
+
+**Technical focus:** Python, PySide6, Ollama, Qwen 14B, SQLite, structured outputs, persistent document history, reversible operations, and GitHub Actions.
+
+**[Dr. A — GDPR & AI Act Navigator](https://github.com/alessandrob1-star/dr-a-gdpr-ai-act-navigator)**
+
+A multi-agent application supporting structured analysis of GDPR and EU AI Act compliance requirements.
+
+The architecture combines specialized agents, regulatory-document retrieval, persistent company profiles, and deterministic policy safeguards.
+
+**Technical focus:** Multi-agent orchestration, regulatory evidence retrieval, persistent memory, policy enforcement, Ollama/Qwen, optional OpenAI API integration, Docker, and document exports.
+
+**[IT Help Desk Ticket Triage Assistant](https://github.com/alessandrob1-star/n8n-it-help-desk-ticket-triage)**
+
+An automated IT incident triage workflow combining deterministic classification rules with local language-model generation.
+
+The classification logic determines ticket attributes, while the language model formats the resulting information without controlling the underlying diagnosis.
+
+**Technical focus:** n8n, JavaScript, rule-based classification, Ollama/Qwen, explainable automation, and workflow design.
+
+### Python, Algorithms & Data Analysis
+
+**[IP Subnet Calculator — Stanford Code in Place](https://github.com/alessandrob1-star/ip-subnet-calculator-code-in-place-2026)**
+
+A Python application for IPv4 subnet calculations, CIDR analysis, and subnetting education, developed as a Stanford Code in Place final project.
+
+Includes deterministic networking calculations, an offline learning assistant, and optional AI-powered explanations.
+
+**Technical focus:** Python, Tkinter, IPv4/CIDR, algorithmic logic, unit testing, and GitHub Actions.
+
+**[Airbnb NYC — Exploratory Data Analysis](https://github.com/alessandrob1-star/ibm-final-project-airbnb-data-analysis-2023)**
+
+An IBM Data Analytics capstone project examining patterns in New York City Airbnb listings.
+
+The analysis covers data preparation, exploratory visualization, pricing distributions, geographical differences, and dataset limitations.
+
+**Technical focus:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, and exploratory data analysis.
+
+**[NYTimes Article Search GUI](https://github.com/alessandrob1-star/nytimes-api-scraper)**
+
+A Python desktop and command-line application for querying and exploring articles through the New York Times Article Search API.
+
+**Technical focus:** Python, Tkinter, REST APIs, Requests, environment configuration, and credential management.
+
+**[Grade Management System — C++](https://github.com/alessandrob1-star/grade-manager-cpp)**
+
+A C++ application for managing academic assessments, weighted grades, and persistent course records.
+
+**Technical focus:** C++, STL containers, file I/O, modular programming, and weighted calculations.
+
+### Web Development & Interaction Design
+
+**[Caravaggio — Light, Shadow, Blood](https://github.com/alessandrob1-star/caravaggio-light-shadow-blood)**
+
+An interactive digital exhibition prototype developed for OPIT's Web Development course.
+
+The project explores visual storytelling, multilingual content, and interaction design through a Figma prototype organized into three thematic chapters.
+
+**Technical focus:** Figma, interface prototyping, information architecture, multilingual interaction design, and digital storytelling.
 
 ---
 
-## 📫 Contact
+## Technical Background
 
-[LinkedIn](https://www.linkedin.com/in/alessandrobenevelliopit/)
+| Area | Technologies & Methods |
+|---|---|
+| Programming | Python, C++, JavaScript |
+| AI Applications | LLM integration, Ollama, Qwen, multi-agent workflows |
+| Data Analysis | Pandas, NumPy, Matplotlib, Seaborn, Jupyter |
+| Interfaces | PySide6, Tkinter, browser-based applications |
+| Databases | SQLite, SQL |
+| Infrastructure & Automation | Docker, GitHub Actions, n8n |
+| Development Practices | Git, testing, structured validation, reproducible workflows |
 
+---
+
+## Education & Learning
+
+**B.Sc. (Hons) Computer Science — OPIT**  
+*Machine Learning & AI track | In progress*
+
+Additional learning and project experience:
+
+- Stanford Code in Place — Python programming and final project
+- IBM Data Analytics — Data analysis and capstone project
+
+### Current Learning Direction
+
+My academic development is increasingly focused on the foundations of machine learning and deep learning.
+
+Areas of particular interest include numerical optimization, gradient descent algorithms, neural network training, and computer vision.
+
+I aim to complement theoretical study with progressively more rigorous implementation, experimentation, and technical documentation.
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/alessandrobenevelliopit/) · [Hugging Face](https://huggingface.co/AlessandroBenevelli) · [Credly](https://www.credly.com/users/alessandro-benevelli/skills)
