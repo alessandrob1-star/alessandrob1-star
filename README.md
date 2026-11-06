@@ -1,8 +1,6 @@
-```html
 <div align="center">
   <img width="1000" height="200" alt="Profile banner" src="assets/profile-banner.gif" />
 </div>
-```
 
 # Alessandro Benevelli
 
