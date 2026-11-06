@@ -36,10 +36,6 @@ I am especially interested in reliable, explainable AI systems where the model s
   A Python/PySide6 desktop application that reads messy PDF folders, uses **Ollama with Qwen 14B locally** to propose document classes, filenames, and destination folders, and requires human approval before moving files.
   **Technical adoption:** six-table SQLite memory, validated structured model output and evidence references, persistent original/current path history, human review, reversible rename/restore workflow, and GitHub Actions. Document processing runs locally without a hosted model or remote database.
 
-  ![DocWeave review workflow - temporary screenshot from an earlier interface build](https://raw.githubusercontent.com/alessandrob1-star/Docweave/main/docs/assets/docweave-screenshot-03-human-review.png)
-
-  *Temporary screenshot retained from an earlier interface build; visible labels may differ from the current local runtime. Updated screenshots will follow.*
-
 * [**Dr. A - G.D.P.R. & AI Act Navigator**](https://github.com/alessandrob1-star/dr-a-gdpr-ai-act-navigator)
   A multi-agent GDPR and EU AI Act compliance web application. It turns a guided company profile into a risk assessment, matched regulatory evidence, timeline, progress view, action workspace, and grounded Dr. A assistant.
   **Technical adoption:** Company Profile Agent, Regulatory Monitoring Agent, Regulatory Matching Agent, Dr. A Agent, deterministic Policy Agent safeguards, persistent company memory, official-document retrieval, live regulatory-update pipeline, PDF/DOCX exports, 25-language local UI dictionaries, Docker launchers, Ollama/Qwen local mode, and optional OpenAI `gpt-5.6-sol` runtime.
