@@ -10,9 +10,9 @@
 
 My work combines practical AI engineering with an evolving foundation in the mathematical and computational principles of machine learning.
 
-My projects involve multi-agent architectures, local language models, document intelligence, and software systems designed around transparency, reliability, and human oversight.
+I develop applications involving multi-agent architectures, local language models, and document intelligence, with an emphasis on reliability, transparency, and human oversight.
 
-My long-term objective is to specialize in **Deep Learning Engineering**, with particular interest in neural network architectures, optimization, and computer vision.
+My long-term objective is to specialize in **Deep Learning Engineering**, particularly neural network architectures, optimization methods, and computer vision.
 
 ---
 
