@@ -1,4 +1,4 @@
-<img width="1000" height="200" alt="Profile banner" src="assets/profile-banner.gif" />
+<img width="800" height="200" alt="Profile banner" src="assets/profile-banner.gif" />
 
 
 
