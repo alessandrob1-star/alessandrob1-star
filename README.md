@@ -131,4 +131,3 @@ An interactive digital exhibition prototype developed for OPIT's Web Development
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/alessandrobenevelliopit/) · [Hugging Face](https://huggingface.co/AlessandroBenevelli) · [Credly](https://www.credly.com/users/alessandro-benevelli/skills)
-```
