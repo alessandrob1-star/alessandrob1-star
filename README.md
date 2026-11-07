@@ -1,38 +1,57 @@
+
+
 <div align="center">
   <img width="1000" height="200" alt="Profile banner" src="assets/profile-banner.gif" />
 </div>
 
-
 # Alessandro Benevelli
 
 **B.Sc. Computer Science Student — OPIT**  
-*Aspiring Deep Learning Engineer | AI Engineering & Neural Networks*
+*Data Science & Machine Learning | Python & SQL | Artificial Intelligence*
 
-My work combines practical AI engineering with an evolving foundation in the mathematical and computational principles of machine learning.
+My academic and professional development is focused on **Data Science, Machine Learning, and Artificial Intelligence**, with a particular interest in Deep Learning and neural network architectures.
 
-I develop applications involving multi-agent architectures, local language models, and document intelligence, with an emphasis on reliability, transparency, and human oversight.
+I combine professional experience with relational databases, SQL Server, and enterprise information systems with Python programming, data analysis, and AI application development.
 
-My long-term objective is to specialize in **Deep Learning Engineering**, particularly neural network architectures, optimization methods, and computer vision.
+My current focus is on strengthening my mathematical and statistical foundations, developing practical Machine Learning skills, and applying data-driven methods to real-world problems.
+
+Alongside Data Science, I continue to explore AI engineering, including multi-agent architectures, local language models, and document intelligence, with an emphasis on reliability, transparency, and human oversight.
 
 ---
 
 ## Scientific & Technical Interests
 
-### Machine Learning & Deep Learning
+### Data Science & Machine Learning
+- Exploratory data analysis and statistical methods
+- Supervised learning and predictive modeling
+- Data preprocessing and feature engineering
+- Model evaluation and experimental reproducibility
+- Mathematical foundations of Machine Learning
+
+### Deep Learning & Artificial Intelligence
 - Neural network architectures and representation learning
 - Gradient-based optimization and training methods
 - Computer vision
-- Mathematical foundations of machine learning
+- Explainable and reliable AI systems
+- Large Language Models and agentic AI
 
-### AI Systems & Software Engineering
-- Model orchestration and retrieval-based applications
-- Reliable and explainable AI systems
-- Experimental evaluation and reproducibility
-- Software architecture and data-intensive applications
+### Software & Data Engineering
+- Relational databases and SQL
+- Data-intensive applications
+- Software architecture and automation
+- Testing, validation, and reproducible workflows
 
 ---
 
 ## Selected Projects
+
+### Data Science & Data Analysis
+
+**[Airbnb NYC — Exploratory Data Analysis](https://github.com/alessandrob1-star/ibm-final-project-airbnb-data-analysis-2023)**
+
+An IBM Data Analytics capstone project examining Airbnb listings in New York City through data cleaning, exploratory visualization, and analysis of pricing and geographical patterns.
+
+**Technical focus:** Python, Pandas, NumPy, Matplotlib, Seaborn, and Jupyter Notebook.
 
 ### AI Engineering & Intelligent Systems
 
@@ -54,19 +73,13 @@ An automated IT incident classification workflow combining deterministic JavaScr
 
 **Technical focus:** n8n, JavaScript, rule-based classification, Ollama/Qwen, explainable decision logic, and workflow automation.
 
-### Python, Algorithms & Data Analysis
+### Python & Software Development
 
 **[IP Subnet Calculator — Stanford Code in Place](https://github.com/alessandrob1-star/ip-subnet-calculator-code-in-place-2026)**
 
 A Python application for IPv4 subnet calculations and CIDR analysis, developed as a Stanford Code in Place final project. Includes an offline learning assistant and optional AI-powered explanations.
 
 **Technical focus:** Python, Tkinter, networking algorithms, unit testing, and GitHub Actions.
-
-**[Airbnb NYC — Exploratory Data Analysis](https://github.com/alessandrob1-star/ibm-final-project-airbnb-data-analysis-2023)**
-
-An IBM Data Analytics capstone project examining Airbnb listings in New York City through data cleaning, exploratory visualization, and analysis of pricing and geographical patterns.
-
-**Technical focus:** Python, Pandas, NumPy, Matplotlib, Seaborn, and Jupyter Notebook.
 
 **[NYTimes Article Search GUI](https://github.com/alessandrob1-star/nytimes-api-scraper)**
 
@@ -94,11 +107,11 @@ An interactive digital exhibition prototype developed for OPIT's Web Development
 
 | Area | Technologies & Methods |
 |---|---|
-| Programming | Python, C++, JavaScript |
+| Programming | Python, SQL, C++, JavaScript |
+| Data Science & Analysis | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter |
+| Databases | SQL Server, SQLite, relational databases |
 | AI Applications | LLM integration, Ollama, Qwen, multi-agent workflows |
-| Data Analysis | Pandas, NumPy, Matplotlib, Seaborn, Jupyter |
 | Interfaces | PySide6, Tkinter, browser-based applications |
-| Databases | SQLite, SQL |
 | Infrastructure | Docker, GitHub Actions, n8n |
 | Development Practices | Git, testing, structured validation, reproducible workflows |
 
@@ -118,3 +131,4 @@ An interactive digital exhibition prototype developed for OPIT's Web Development
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/alessandrobenevelliopit/) · [Hugging Face](https://huggingface.co/AlessandroBenevelli) · [Credly](https://www.credly.com/users/alessandro-benevelli/skills)
+```
